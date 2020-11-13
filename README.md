@@ -31,3 +31,5 @@ Used Machine Learning algorithms like Decision Trees, Guassian Naive Bayes, K Ne
 
 ## Conclusion
 A Random Forest Classifer leads with 96% accuracy
+
+![](Images/titanic-model-score.PNG)
