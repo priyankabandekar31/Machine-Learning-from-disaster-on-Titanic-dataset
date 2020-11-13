@@ -8,6 +8,8 @@
 - [Dataset Information](#Dataset-Information)  
 - [Purpose](#Purpose)  
 - [Conclusion](#Conclusion)  
+</details>
+<!-- AUTO-GENERATED-CONTENT:END -->
 
 ## Tools Utilized
 These are the tools I have utilized for the following project:
