@@ -20,9 +20,7 @@ Used Machine Learning algorithms like Decision Trees, Guassian Naive Bayes, K Ne
 
 **Data Set Name:** 'Titanic: Machine Learning from Disaster'    [`link to Kaggle Dataset`](https://github.com/priyankabandekar31/Machine-Learning-from-disaster-on-Titanic-dataset/blob/main/Titanic_Machine_Learning_from_Disaster.ipynb) which contains information on who was more likely to survive based based on social categories such as age, gender, and social economic class. 
 
-#### **Source:**            
-**Name:** Kaggle 
-
+**Source:**  Kaggle from Kaggle Competitions
 
 ## Purpose
 
