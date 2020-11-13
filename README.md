@@ -1,5 +1,14 @@
 # Machine-Learning-from-disaster-on-Titanic-dataset
 
+<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
+<details>
+<summary>click to expand</summary>
+ 
+- [Tools Utilized](#Tools-Utilized)  
+- [Dataset Information](#Dataset-Information)  
+- [Purpose](#Purpose)  
+- [Conclusion](#Conclusion)  
+
 ## Tools Utilized
 These are the tools I have utilized for the following project:
 * Google Colab
