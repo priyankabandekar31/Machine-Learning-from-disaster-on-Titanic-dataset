@@ -28,3 +28,6 @@ Used Machine Learning algorithms like Decision Trees, Guassian Naive Bayes, K Ne
 
 
 **Aim** : To identify and predict from the past data of who is more likely to survive on the titanic by utilizing machine learning algorithms.
+
+## Conclusion
+A Random Forest Classifer leads with 96% accuracy
